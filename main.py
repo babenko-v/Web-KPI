@@ -46,7 +46,6 @@ for i in range(int(day)):
     print("good day")
 
 
-
 # game : 2500
 # clothers : 8000
 # costs : 12000
