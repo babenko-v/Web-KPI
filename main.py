@@ -42,6 +42,8 @@ else:
         for i in lines_before + lines:
             file.write(f'{i}\n')
 
+for i in range(int(day)):
+    print("good day")
 
 
 
