@@ -126,3 +126,4 @@ elif choose == 2:
         if check:
             print("Послідовність символів '{}' не знайдено в текстовому файлі.".format(symbols))
 
+print("cool cod bro")
